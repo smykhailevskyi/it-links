@@ -1,2 +1,3 @@
-# it-links
-Links, articles about programming, interviews and so on
+## Node interview:  
+https://dou.ua/lenta/articles/senior-node-js-developer-skills-2024/  
+
